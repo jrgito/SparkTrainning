@@ -1,0 +1,4 @@
+apiKey=whwOklKAae8guN95cVtrA
+apiSecret=3Mlw082vWP2SX7FizOmGZZGFzHITuepNLt4rcaRpI
+accessToken=1893181764-G1fgLg8LPg27IL65oSKmpeKANhFb2ebwbH9eVg4
+accessTokenSecret=lpseGZZKBXLgtLWjuUv94brxAEpYSES6NYcfCuIIsaYoo
