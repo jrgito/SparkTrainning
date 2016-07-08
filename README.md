@@ -1,5 +1,5 @@
 # Learn Spark
-    this proyect is only with learning porpuses
+    this proyect is only with learning purposes
 ## Batch Process Examples
      1 CSVProcess: process csv without library
      2 KafkaStreaming: easiest way to retreive messages from kafka
